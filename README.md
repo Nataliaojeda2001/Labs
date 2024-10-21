@@ -1,2 +1,1 @@
-# Labs
-m130
+# Java Labs from Class
